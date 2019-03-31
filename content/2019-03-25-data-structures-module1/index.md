@@ -1,5 +1,5 @@
 ---
-title: Data Structures: Module 1: Introduction
+title: Data Structures - Module 1 Introduction
 tags: [datastructures, dotnet]
 date: 2019-03-25T05:25:44.226Z
 path: blog/datastructures/module1
