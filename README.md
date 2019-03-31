@@ -1,7 +1,7 @@
 <p align="center">
-    <h1 align="center">Gatsby starter developer blog</h1>
-    <p align="center">A file-driven generator made with Gatsby.js for creating fast loading, customizable, scalable and SEO-friendly blogs.</p>
-    <p align="center">If you are looking for a site <strong>ready to go in production</strong> and with <strong>most common features out of the box</strong>, you should give a change to this starter! Not every blog needs of a CMS or other complex solutions. This blog is made for who want share its thoughs in minutes without care of SEO, server or database concerns. <strong>You can deploy it on the host you want at the cheapest price</strong> because it is built only with HTML, CSS, JS and it doesn't need of backend to work. It is <strong>mostly designed for blogs and portfolios</strong>. But despite the fact that it allows to automates the most common features of these types of site (ex. tags, SEO, archive...), it is high customizable and extensible.</p>
+    <h1 align="center">BCPhD Site</h1>
+    <p align="center">A site for training, learning, and more. A fast loading, customizable, scalable and SEO-friendly site.</p>
+    <p align="center">If you are looking for a site <strong>filled with industry knowledge</strong> and with <strong>most common best practices</strong>, you should follow this site! This blog is made to share thoughs on SEO, server or database concerns. The site itself is built only with HTML, CSS, JS and it doesn't need of backend to work. It is <strong>mostly designed for lessions, it also has blogs and portfolios</strong>. But despite the fact that it allows to automates the most common features of these types of site (ex. tags, SEO, archive...), it is high customizable and extensible.</p>
 </p>
 
 [![Build Status](https://travis-ci.org/lgcolella/gatsby-starter-developer-blog.svg?branch=master)](https://travis-ci.org/lgcolella/gatsby-starter-developer-blog)
