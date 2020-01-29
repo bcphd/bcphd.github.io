@@ -1,4 +1,4 @@
-# b'log
+# bcphd.com
 This projects implements a single page app design using only vanilla javascript.
 No frameworks or build tools are needed to run this.
 You need a web server to serve the html and the js to the browser.
