@@ -4,7 +4,7 @@ Brian Carter's landing page for developers, students, and all.
 
 With our new virus situation, I don't get to present in person and talk much .. so here's my minimal landing page for sharing my artifacts.
 
-## Why? [![start with why](https://img.shields.io/badge/start%20with-why%3F-brightgreen.svg?style=flat)](http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)
+## Why? [![start with why](https://img.shields.io/badge/start%20with-why%3F-brightgreen.svg?style=flat)](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)
 
 I wanted a landing page to showcase everything I do online and I wanted it to be minimal and right to the point rather beautiful and hefty. And I think most of the devs out there would want the same.
 
@@ -12,8 +12,9 @@ I wanted a landing page where I can add markdown links - links to my classes and
 
 So I sat down one night and created this **Landing Page**. Feel free to fork, clone, play around and make this your own.
 
-## Don't listen to Naysayer's? [![Inspiring and Motivating Speech](https://img.shields.io/badge/no%20to-naysayers%3F-brightgreen.svg?style=flat)](https://www.youtube.com/watch?v=RH25VpiEFdc)
+## Naysayers? [![Inspiration](https://img.shields.io/badge/no%20to-naysayers%3F-brightgreen.svg?style=flat)](https://www.youtube.com/watch?v=RH25VpiEFdc)
 
+I wanted a landing page to showcase everything I do online and I wanted it to be minimal and right to the point rather beautiful and hefty. And I think most of the devs out there would want the same.
 
 
 ## Themes
