@@ -2,7 +2,7 @@
 
 Brian Carter's landing page for developers, students, and all.
 
-Developers don't talk much. Their code does all the talking. So here's my minimal landing page for sharing my artifacts.
+With our new virus situation, I don't get to present in person and talk much .. so here's my minimal landing page for sharing my artifacts.
 
 ## Why? [![start with why](https://img.shields.io/badge/start%20with-why%3F-brightgreen.svg?style=flat)](http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)
 
@@ -12,11 +12,15 @@ I wanted a landing page where I can add markdown links - links to my classes and
 
 So I sat down one night and created this **Landing Page**. Feel free to fork, clone, play around and make this your own.
 
+## Don't listen to Naysayer's? [![Inspiring and Motivating Speech](https://img.shields.io/badge/no%20to-naysayers%3F-brightgreen.svg?style=flat)](https://www.youtube.com/watch?v=RH25VpiEFdc)
+
+
+
 ## Themes
 
-Dev Landing Page comes in 9 **material themes**.
+BC's Landing Page comes in 10 **material themes**.
 
-![9 Material Themes](!! add link to images here for each theme !!)
+![10 Material Themes](!! add link to images here for each theme !!)
 
 If none of these themes fit within your taste, it's quite easy to customize and create your own too. 
 
