@@ -28,9 +28,6 @@ html {
 	}
 }
 
-.icons-social i {
-	font-size: 3em;
-}
 
 /* Custom Styles */
 
@@ -56,16 +53,21 @@ main > .tagline {
 }
 
 .icons-social i {
+	font-size: 3em;
 	padding: 10px;
 }
 
-.devto {
-	margin-bottom: -0.20rem;
+.icons-social span {
+	margin-bottom: 30px;
+	margin-right: 50px;
 }
 
-.devto svg {
-	margin-bottom: -0.20rem;
-	margin-left: 0.675rem;;
-	width: 2.65rem;
-	height: 2.65rem;
+.icons-text { 
+	margin-top: 3.2em; 
 }
+
+.icons-social .row {
+	padding: 15px;
+	font-size: 90%;	
+}
+
