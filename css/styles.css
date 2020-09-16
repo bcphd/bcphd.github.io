@@ -71,3 +71,7 @@ main > .tagline {
 	font-size: 90%;	
 }
 
+.tagline {
+	padding-bottom: 40px;
+}
+
